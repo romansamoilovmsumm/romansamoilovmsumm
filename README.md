@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **samoilov.roman.a@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/romansamoilovmsumm/romansamoilovmsumm/blob/main/My_CV.pdf](https://github.com/romansamoilovmsumm/romansamoilovmsumm/blob/main/My_CV.pdf)
+- 📄 Know about my experiences [here](https://github.com/romansamoilovmsumm/romansamoilovmsumm/blob/main/My_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
