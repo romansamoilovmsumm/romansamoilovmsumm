@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samoilov Roman</h1>
-<h3 align="center">A 4th year student of the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University, I am interested in financial mathematics (pricing of derivatives) and am engaged in algorithmic trading</h3>
+<h3 align="center">A 5th-year student at Mechanics and Mathematics of Lomonosov Moscow State University, I focus on financial mathematics (derivatives pricing) and market microstructure. I am currently working on market microstructure and aim to become a microstructure quantitative analyst, with strong interests in HFT and algorithmic trading.<br>Among my repositories are projects on econometrics and on backtesting trading strategies for futures.</h3>
 
 - 🌱 I’m currently learning **advanced mathematical statistics, algotrading**
 
